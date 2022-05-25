@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahamednazeem
-- 👀 I’m interested in Test Automation
+- 👀 I’m interested in Test Automation, DevOps
 - 🌱 I’m currently learning AWS, Kubernetes
 - 💞️ I’m looking to collaborate on Test Automation Framework
 
