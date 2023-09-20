@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @ahamednazeem
-- 👀 I’m interested in Test Automation, DevOps
-- 🌱 I’m currently learning AWS, Kubernetes
-- 💞️ I’m looking to collaborate on Test Automation Framework
+# Hello, I'm Ahamed Nazeem 👋
 
-<!---
-ahamednazeem/ahamednazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a passionate DevOps Engineer with expertise in Cloud Infrastructure, Automation and CI/CD process. I love working at the intersection of development, operations, and quality assurance to improve software delivery processes and ensure the reliability and scalability of applications.
+
+## Skills
+- DevOps: Automation, CI/CD, Infrastructure as Code (Terraform), Containerization (Docker, Kubernetes)
+- Test Automation: Frameworks (Selenium, KarateAPI, Robot), Test Scripting (Python, Java), Test Orchestration
+- Cloud Platforms: Amazon Web Services (AWS)
+- Continuous Integration/Continuous Deployment (CI/CD): Jenkins, ArgoCD, FluxCD
+- Infrastructure Automation: Shell Scripting, Python
+- Monitoring and Logging: Splunk, Datadog, Dynatrace
+- Collaboration Tools: Git, Jira
+- Security: Secure Coding Practices, Vulnerability Management
+
+## Contact Me
+- LinkedIn: [Ahamed Nazeem](https://www.linkedin.com/in/ahamednazeem/)
+
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! 😄
